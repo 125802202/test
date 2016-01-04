@@ -29,7 +29,7 @@ import android.os.Message;
 import android.util.Log;
 
 public class CommandSocket {
-	private static CommandSocket instance;//我只是测试用
+	private static CommandSocket instance;//我只是测试用2
 	private String ip = "192.168.42.1";// socket鍛戒护IP
 	private int port = 7878;// socket鍛戒护绔彛
 	public ChannelFuture future = null;
